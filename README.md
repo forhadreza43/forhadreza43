@@ -59,7 +59,7 @@
             <a href="#top-languages" align="center">
               <img
                 width="100%"
-                height="70%"
+                height="50%"
                 alt="Top Languages"
                 src="https://github-readme-stats.vercel.app/api/top-langs/?username=forhadreza43&langs_count=6&theme=tokyonight&layout=compact&hide_border=true"
               />
