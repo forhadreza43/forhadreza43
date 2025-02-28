@@ -12,7 +12,7 @@
     </samp>
   </p>
 
-<h2>💻 TECH STACK</h2>
+<h3>💻 TECH STACK</h3>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,tailwind,js,ts,css,react,nodejs,py,postgres,mongodb,mysql,java,c,cpp,linux" alt="Tech Stack"/>
