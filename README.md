@@ -10,6 +10,14 @@
       />
     </samp>
   </p>
+
+  <h2>💻 TECH STACK</h2>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=tailwind,js,astro,react,nodejs,py,postgres,docker,figma" alt="Tech Stack"/>
+  </a>
+</p>
 <!-- <h1 align="center">Hi 👋, I'm Forhad Reza</h1>
 <h3 align="center">A passionate frontend developer</h3> -->
 
