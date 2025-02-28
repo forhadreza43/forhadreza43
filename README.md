@@ -129,7 +129,7 @@
           <td style="width: 50%; padding: 10px">
             <a href="https://leetcode.com/u/snow_cone/">
               <img
-                src="https://img.shields.io/badge/LeetCode-snow_cone-brightgreen?style=for-the-badge&logo=Leetcode"
+                src="https://img.shields.io/badge/LeetCode-snow_cone-gold?style=for-the-badge&logo=Leetcode"
                 alt="Leetcode Profile"
               />
             </a>
