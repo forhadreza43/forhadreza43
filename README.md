@@ -35,21 +35,6 @@
     <div style="max-width: 800px; margin: 0 auto">
       <table style="width: 100%; text-align: center">
         <!-- First row with GitHub Stats and Streaks -->
-        <!-- Third row with Tech Stack -->
-        <tr>
-          <td colspan="2" style="padding: 10px">
-            <p><b>Tech Stack:</b></p>
-            <p align="center">
-              <a href="https://skillicons.dev">
-                <img
-                  src="https://skillicons.dev/icons?i=html,tailwind,js,ts,css,react,nodejs,py,postgres,mongodb,mysql,java,c,cpp,linux"
-                  alt="Tech Stack"
-                />
-              </a>
-            </p>
-            <br />
-          </td>
-        </tr>
         <tr>
           <td style="width: 50%; padding: 10px; vertical-align: top">
             <a href="#github-stats">
@@ -78,6 +63,64 @@
                 src="https://github-readme-stats.vercel.app/api/top-langs/?username=forhadreza43&langs_count=6&theme=tokyonight&layout=compact&hide_border=true"
               />
             </a>
+          </td>
+        </tr>
+         <!-- Third row with Tech Stack -->
+        <tr>
+          <td colspan="2" style="padding: 10px">
+            <p><b>Tech Stack:</b></p>
+            <p align="center">
+              <a href="https://skillicons.dev">
+                <img
+                  src="https://skillicons.dev/icons?i=html,tailwind,js,ts,css,react,nodejs,py,postgres,mongodb,mysql,java,c,cpp,linux"
+                  alt="Tech Stack"
+                />
+              </a>
+            </p>
+            <div align="center">
+              <a
+                href="https://github.com/forhadreza43/awesome-github-profile-readme/stargazers"
+                ><img
+                  src="https://img.shields.io/github/stars/forhadreza43/awesome-github-profile-readme"
+                  alt="Stars Badge"
+              /></a>
+              <a
+                href="https://github.com/forhadreza43/awesome-github-profile-readme/network/members"
+                ><img
+                  src="https://img.shields.io/github/forks/forhadreza43/awesome-github-profile-readme"
+                  alt="Forks Badge"
+              /></a>
+              <a
+                href="https://github.com/forhadreza43/awesome-github-profile-readme/pulls"
+                ><img
+                  src="https://img.shields.io/github/issues-pr/forhadreza43/awesome-github-profile-readme?color=0088ff"
+                  alt="Pull Requests Badge"
+              /></a>
+              <a
+                href="https://github.com/forhadreza43/awesome-github-profile-readme/issues"
+                ><img
+                  src="https://img.shields.io/github/issues/forhadreza43/awesome-github-profile-readme?color=0088ff"
+                  alt="Issues Badge"
+              /></a>
+              <a
+                href="https://github.com/forhadreza43/awesome-github-profile-readme/graphs/contributors"
+                ><img
+                  alt="GitHub contributors"
+                  src="https://img.shields.io/github/contributors/forhadreza43/awesome-github-profile-readme?color=2b9348"
+              /></a>
+              <a
+                href="https://github.com/forhadreza43/awesome-github-profile-readme/blob/master/LICENSE"
+                ><img
+                  src="https://img.shields.io/github/license/forhadreza43/awesome-github-profile-readme?color=2b9348"
+                  alt="License Badge"
+              /></a>
+              <a href="https://codecov.io/gh/forhadreza43/github-readme-stats"
+                ><img
+                  alt="Tests Coverage"
+                  src="https://codecov.io/gh/forhadreza43/github-readme-stats/branch/master/graph/badge.svg"
+              /></a>
+            </div>
+            <br />
           </td>
         </tr>
         <!-- Fourth row with LeetCode and HackerRank badges -->
