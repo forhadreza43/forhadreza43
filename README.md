@@ -27,21 +27,9 @@
 <a href="https://github.com/forhadreza43/awesome-github-profile-readme/blob/master/LICENSE"><img src="https://img.shields.io/github/license/forhadreza43/awesome-github-profile-readme?color=2b9348" alt="License Badge"/></a>
 <a href="https://codecov.io/gh/forhadreza43/github-readme-stats"><img alt="Tests Coverage" src="https://codecov.io/gh/forhadreza43/github-readme-stats/branch/master/graph/badge.svg" /></a>
 </div>
-<div align="center">
-    <a href="https://github.com/forhadreza43/github-readme-stats/graphs/contributors">
-      <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/forhadreza43/github-readme-stats" />
-    </a>
-    <a href="https://codecov.io/gh/forhadreza43/github-readme-stats"><img alt="Tests Coverage" src="https://codecov.io/gh/forhadreza43/github-readme-stats/branch/master/graph/badge.svg" /></a>
-    <a href="https://github.com/forhadreza43/github-readme-stats/issues">
-      <img alt="Issues" src="https://img.shields.io/github/issues/forhadreza43/github-readme-stats?color=0088ff" />
-    </a>
-    <a href="https://github.com/forhadreza43/github-readme-stats/pulls">
-      <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/forhadreza43/github-readme-stats?color=0088ff" />
-    </a>
-    <a href="https://securityscorecards.dev/viewer/?uri=github.com/forhadreza43/github-readme-stats">
-      <img alt="OpenSSF Scorecard" src="https://api.securityscorecards.dev/projects/github.com/forhadreza43/github-readme-stats/badge" />
-    </a>
-</div>
+<p>
+    [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+</p>
 
 <!-- <h1 align="center">Hi 👋, I'm Forhad Reza</h1>
 <h3 align="center">A passionate frontend developer</h3> -->
