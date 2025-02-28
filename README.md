@@ -15,7 +15,7 @@
 <h2>💻 TECH STACK</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=tailwind,js,css,react,nodejs,py,postgres,java,c,figma" alt="Tech Stack"/>
+    <img src="https://skillicons.dev/icons?i=tailwind,js,css,react,nodejs,py,postgres,MongoDB,mysql,java,c,cpp,figma" alt="Tech Stack"/>
   </a>
 </p>
 <div align="center">
