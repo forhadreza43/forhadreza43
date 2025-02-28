@@ -5,7 +5,7 @@
 
   <p align="center">
     <samp>
-      <b>Hi !</b>
+      <b>✨ Hi !</b>
       <br />
       I'm Forhad Reza, a FrontEnd Developer.
       <br />
