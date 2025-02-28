@@ -27,9 +27,6 @@
 <a href="https://github.com/forhadreza43/awesome-github-profile-readme/blob/master/LICENSE"><img src="https://img.shields.io/github/license/forhadreza43/awesome-github-profile-readme?color=2b9348" alt="License Badge"/></a>
 <a href="https://codecov.io/gh/forhadreza43/github-readme-stats"><img alt="Tests Coverage" src="https://codecov.io/gh/forhadreza43/github-readme-stats/branch/master/graph/badge.svg" /></a>
 </div>
-<p>
-    [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
-</p>
 
 <!-- <h1 align="center">Hi 👋, I'm Forhad Reza</h1>
 <h3 align="center">A passionate frontend developer</h3> -->
