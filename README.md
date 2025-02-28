@@ -62,7 +62,7 @@
                 height="160"
                 width="350"
                 style="display: block; margin: 0 auto"
-                src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xRokib&langs_count=6&theme=tokyonight&layout=compact&hide_border=true"
+                src="https://github-readme-stats.vercel.app/api/top-langs/?username=forhadreza43&langs_count=6&theme=tokyonight&layout=compact&hide_border=true"
               />
             </a>
           </td>
