@@ -1,6 +1,6 @@
 
 <p align="center">
-    <samp>
+    <samp align="center">
       <h1 align="center">Hi 👋, I'm Forhad Reza</h1>
         <h3 align="center">A passionate frontend developer</h3>
       <br />
