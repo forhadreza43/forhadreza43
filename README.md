@@ -82,7 +82,7 @@
         </tr>
         <tr>
           <td colspan="2" style="padding: 10px">
-            <p align="center">
+            <p align="center" verticle-align="center">
               <a
                 href="https://github.com/forhadreza43/awesome-github-profile-readme/stargazers"
                 ><img
