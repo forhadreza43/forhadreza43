@@ -123,6 +123,7 @@
               /></a>
             </div>
           </td>
+          <br />
         </tr>
         <!-- Fourth row with LeetCode and HackerRank badges -->
         <tr>
