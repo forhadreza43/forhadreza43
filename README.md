@@ -48,7 +48,7 @@
             <a href="#streak-stats">
               <img
                 alt="GitHub Streak"
-                src="https://github-readme-streak-stats.herokuapp.com?user=0xRokib&hide_border=true&theme=tokyonight"
+                src="https://github-readme-streak-stats.herokuapp.com?user=forhadreza43&hide_border=true&theme=tokyonight"
               />
             </a>
           </td>
@@ -59,9 +59,6 @@
             <a href="#top-languages">
               <img
                 alt="Top Languages"
-                height="160"
-                width="350"
-                style="display: block; margin: 0 auto"
                 src="https://github-readme-stats.vercel.app/api/top-langs/?username=forhadreza43&langs_count=6&theme=tokyonight&layout=compact&hide_border=true"
               />
             </a>
