@@ -56,10 +56,9 @@
         <!-- Second row with Top Languages -->
         <tr>
           <td style="width: 50%; padding: 10px">
-            <a href="#top-languages" align="center">
+            <a href="#top-languages">
               <img
-                width="100%"
-                height="50%"
+                width="80%"
                 alt="Top Languages"
                 src="https://github-readme-stats.vercel.app/api/top-langs/?username=forhadreza43&langs_count=6&theme=tokyonight&layout=compact&hide_border=true"
               />
