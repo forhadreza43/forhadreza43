@@ -122,8 +122,8 @@
                   src="https://codecov.io/gh/forhadreza43/github-readme-stats/branch/master/graph/badge.svg"
               /></a>
             </div>
+            <br />
           </td>
-          <br />
         </tr>
         <!-- Fourth row with LeetCode and HackerRank badges -->
         <tr>
