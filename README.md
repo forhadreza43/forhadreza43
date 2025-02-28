@@ -77,12 +77,7 @@
                 />
               </a>
             </p>
-            <br />
-          </td>
-        </tr>
-        <tr>
-          <td colspan="2" style="padding: 10px">
-            <p align="center" verticle-align="center">
+            <div align="center">
               <a
                 href="https://github.com/forhadreza43/awesome-github-profile-readme/stargazers"
                 ><img
@@ -124,10 +119,11 @@
                   alt="Tests Coverage"
                   src="https://codecov.io/gh/forhadreza43/github-readme-stats/branch/master/graph/badge.svg"
               /></a>
-            </p>
-            <br/>
-        </td>
-      </tr>
+            </div>
+            <br />
+          </td>
+        </tr>
+
         <!-- Fourth row with LeetCode and HackerRank badges -->
         <tr>
           <td style="width: 50%; padding: 10px">
