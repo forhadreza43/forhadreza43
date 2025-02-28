@@ -35,36 +35,6 @@
     <div style="max-width: 800px; margin: 0 auto">
       <table style="width: 100%; text-align: center">
         <!-- First row with GitHub Stats and Streaks -->
-        <tr>
-          <td style="width: 50%; padding: 10px; vertical-align: top">
-            <a href="#github-stats">
-              <img
-                alt="GitHub Stats"
-                src="https://github-readme-stats.vercel.app/api?username=forhadreza43&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&theme=tokyonight"
-              />
-            </a>
-          </td>
-          <td style="width: 50%; padding: 10px; vertical-align: top">
-            <a href="#streak-stats">
-              <img
-                alt="GitHub Streak"
-                src="https://github-readme-streak-stats.herokuapp.com?user=forhadreza43&hide_border=true&theme=tokyonight"
-              />
-            </a>
-          </td>
-        </tr>
-        <!-- Second row with Top Languages -->
-        <tr>
-          <td style="width: 50%; padding: 10px">
-            <a href="#top-languages">
-              <img
-                width="80%"
-                alt="Top Languages"
-                src="https://github-readme-stats.vercel.app/api/top-langs/?username=forhadreza43&langs_count=6&theme=tokyonight&layout=compact&hide_border=true"
-              />
-            </a>
-          </td>
-        </tr>
         <!-- Third row with Tech Stack -->
         <tr>
           <td colspan="2" style="padding: 10px">
@@ -121,6 +91,36 @@
               /></a>
             </div>
             <br />
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 50%; padding: 10px; vertical-align: top">
+            <a href="#github-stats">
+              <img
+                alt="GitHub Stats"
+                src="https://github-readme-stats.vercel.app/api?username=forhadreza43&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&theme=tokyonight"
+              />
+            </a>
+          </td>
+          <td style="width: 50%; padding: 10px; vertical-align: top">
+            <a href="#streak-stats">
+              <img
+                alt="GitHub Streak"
+                src="https://github-readme-streak-stats.herokuapp.com?user=forhadreza43&hide_border=true&theme=tokyonight"
+              />
+            </a>
+          </td>
+        </tr>
+        <!-- Second row with Top Languages -->
+        <tr>
+          <td style="width: 50%; padding: 10px">
+            <a href="#top-languages">
+              <img
+                width="80%"
+                alt="Top Languages"
+                src="https://github-readme-stats.vercel.app/api/top-langs/?username=forhadreza43&langs_count=6&theme=tokyonight&layout=compact&hide_border=true"
+              />
+            </a>
           </td>
         </tr>
         <!-- Fourth row with LeetCode and HackerRank badges -->
