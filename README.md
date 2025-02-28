@@ -40,7 +40,7 @@
             <a href="#github-stats">
               <img
                 alt="GitHub Stats"
-                src="https://github-readme-stats.vercel.app/api?username=0xRokib&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&theme=tokyonight"
+                src="https://github-readme-stats.vercel.app/api?username=forhadreza43&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&theme=tokyonight"
               />
             </a>
           </td>
@@ -129,7 +129,7 @@
           <td style="width: 50%; padding: 10px">
             <a href="https://leetcode.com/u/snow_cone/">
               <img
-                src="https://img.shields.io/badge/LeetCode-0xRokib-brightgreen?style=for-the-badge&logo=Leetcode"
+                src="https://img.shields.io/badge/LeetCode-snow_cone-brightgreen?style=for-the-badge&logo=Leetcode"
                 alt="Leetcode Profile"
               />
             </a>
@@ -137,7 +137,7 @@
           <td style="width: 50%; padding: 10px">
             <a href="https://www.hackerrank.com/profile/snow_cone">
               <img
-                src="https://img.shields.io/badge/HackerRank-0xRokib-brightgreen?style=for-the-badge&logo=HackerRank"
+                src="https://img.shields.io/badge/HackerRank-snow_cone-brightgreen?style=for-the-badge&logo=HackerRank"
                 alt="HackerRank Profile"
               />
             </a>
