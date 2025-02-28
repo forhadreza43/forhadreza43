@@ -82,7 +82,7 @@
         </tr>
         <tr>
           <td colspan="2" style="padding: 10px">
-            <div align="center">
+            <p align="center">
               <a
                 href="https://github.com/forhadreza43/awesome-github-profile-readme/stargazers"
                 ><img
@@ -124,7 +124,7 @@
                   alt="Tests Coverage"
                   src="https://codecov.io/gh/forhadreza43/github-readme-stats/branch/master/graph/badge.svg"
               /></a>
-            </div>
+            </p>
             <br/>
         </td>
       </tr>
