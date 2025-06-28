@@ -7,7 +7,7 @@
     <samp>
       <b>Hi ✨</b>
       <br />
-      I'm Forhad Reza, a FullStack MERN Developer.
+      I'm Forhad Reza, a MERN Developer.
       <br />
       <img
         src="https://readme-typing-svg.demolab.com?font=Iosevka&size=16&pause=1000&color=9D7CD8&center=true&vCenter=true&width=435&lines=I+code+efficient+and+elegant+programs"
