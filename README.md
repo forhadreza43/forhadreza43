@@ -21,13 +21,22 @@
   </p>
 
   <div style="max-width: 800px; margin: 0 auto">
+    <p><b>Tech Stack:</b></p>
+            <p align="center">
+              <a href="https://skillicons.dev">
+                <img
+                  src="https://skillicons.dev/icons?i=nextjs,react,ts,js,mongodb,express,nodejs,postman,firebase,tailwind,css,html,bootstrap,vite,mysql,py,java,c,cpp,git,github,ps,ai,ubuntu,linux,figma"
+                  alt="Tech Stack"
+                />
+              </a>
+            </p>
     <table style="width: 100%; text-align: center">
         <!-- Third row with Tech Stack -->
         <tr>
           <td colspan="2" style="padding: 10px">
             <p><b>Tech Stack:</b></p>
             <p align="center">
-              <a href="https://skillicons.dev" align="center">
+              <a href="https://skillicons.dev">
                 <img
                   src="https://skillicons.dev/icons?i=nextjs,react,ts,js,mongodb,express,nodejs,postman,firebase,tailwind,css,html,bootstrap,vite,mysql,py,java,c,cpp,git,github,ps,ai,ubuntu,linux,figma"
                   alt="Tech Stack"
