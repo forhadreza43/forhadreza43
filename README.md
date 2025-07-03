@@ -57,6 +57,25 @@
   />
 </p>
 
+<br />
+
+## Online Judge
+
+<div align="center">
+  <a href="https://leetcode.com/u/snow_cone/">
+    <img
+      src="https://img.shields.io/badge/LeetCode-snow_cone-gold?style=for-the-badge&logo=Leetcode"
+      alt="Leetcode Profile"
+    />
+  </a>
+  <a href="https://www.hackerrank.com/profile/snow_cone">
+    <img
+      src="https://img.shields.io/badge/HackerRank-snow_cone-brightgreen?style=for-the-badge&logo=HackerRank"
+      alt="HackerRank Profile"
+    />
+  </a>
+</div>
+
 <details align="left">
   <summary>
     <samp><b>More Info</b></samp>
