@@ -27,7 +27,7 @@
       </p>
       </p>
    <br />
-      ## Reach me out:
+      ## :Reach me out:
       <div align="center">
          <a href="mailto:forhad.bimt@gmail.com">
             <img src="https://i.ibb.co/VcJw5fpz/gmail.png" alt="Email" width="130" />
