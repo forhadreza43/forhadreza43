@@ -27,7 +27,7 @@
           <td colspan="2" style="padding: 10px">
             <p><b>Tech Stack:</b></p>
             <p align="center">
-              <a href="https://skillicons.dev">
+              <a href="https://skillicons.dev" align="center">
                 <img
                   src="https://skillicons.dev/icons?i=nextjs,react,ts,js,mongodb,express,nodejs,postman,firebase,tailwind,css,html,bootstrap,vite,mysql,py,java,c,cpp,git,github,ps,ai,ubuntu,linux,figma"
                   alt="Tech Stack"
