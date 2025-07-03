@@ -87,25 +87,27 @@
             <br />
             <div>
               <p><b>Reach me out</b></p>
-              <table>
-                <tr>
-                  <td align="center">
-                    <a href="https://www.linkedin.com/in/rezaforhad/" target="_blank">
-                      <img src="https://i.ibb.co/x87hZ0Hm/lin.png" alt="LinkedIn" width="100"/>
-                    </a>
-                  </td>
-                  <td align="center">
-                    <a href="https://www.facebook.com/forhadreza000/" target="_blank">
-                      <img src="https://i.ibb.co/RTmQphQL/fac.png" alt="Facebook" width="100"/>
-                    </a>
-                  </td>
-                  <td align="center">
-                    <a href="https://x.com/forhadreza111" target="_blank">
-                      <img src="https://i.ibb.co/h17QR0Fp/x.png" alt="X" width="100"/>
-                    </a>
-                  </td>
-                </tr>
-              </table>
+              <div align="center">
+                <table>
+                  <tr>
+                    <td>
+                      <a href="https://www.linkedin.com/in/rezaforhad/" target="_blank">
+                        <img src="https://i.ibb.co/x87hZ0Hm/lin.png" alt="LinkedIn" width="100"/>
+                      </a>
+                    </td>
+                    <td>
+                      <a href="https://www.facebook.com/forhadreza000/" target="_blank">
+                        <img src="https://i.ibb.co/RTmQphQL/fac.png" alt="Facebook" width="100"/>
+                      </a>
+                    </td>
+                    <td>
+                      <a href="https://x.com/forhadreza111" target="_blank">
+                        <img src="https://i.ibb.co/h17QR0Fp/x.png" alt="X" width="100"/>
+                      </a>
+                    </td>
+                  </tr>
+                </table>
+              </div>
             </div>
           </td>
         </tr>
