@@ -17,7 +17,7 @@
    <p align="right">
       <strong><samp>」</samp></strong>
    </p>
-   <hr />
+   <br />
    <div>
       <p><b>Tech Stack:</b></p>
       <p align="center">
@@ -29,7 +29,7 @@
       </p>
       </p>
    </div>
-   <hr />
+   <br />
    <div>
       <p><b>Reach me out:</b></p>
       <div align="center">
