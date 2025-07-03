@@ -87,8 +87,8 @@
             <br />
             <div style="max-width: 800px; margin: 0 auto">
               <p><b>Reach me out</b></p>
-              <div align="center">
-                <table border=0>
+              <div align="center" style="max-width: 800px; margin: 0 auto">
+                <table border=0 style="max-width: 800px; margin: 0 auto">
                   <tr border=0>
                     <td border=0>
                       <a href="https://www.linkedin.com/in/rezaforhad/" target="_blank">
