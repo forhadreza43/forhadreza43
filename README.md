@@ -84,7 +84,7 @@
               />
               </a>
             </div>
-            <br />
+            <br /> <hr />
             <div style="max-width: 800px; margin: 0 auto">
               <p><b>Reach me out</b></p>
               <div align="center">
