@@ -1,4 +1,3 @@
-
    <p align="left">
       <strong><samp>「</samp></strong>
    </p>
@@ -18,7 +17,6 @@
       <strong><samp>」</samp></strong>
    </p>
    <br />
-   <div>
       <p><b>Tech Stack:</b></p>
       <p align="center">
          <a href="https://skillicons.dev">
@@ -28,9 +26,7 @@
                />
       </p>
       </p>
-   </div>
    <br />
-   <div>
       <p><b>Reach me out:</b></p>
       <div align="center">
          <a href="mailto:forhad.bimt@gmail.com">
@@ -46,7 +42,6 @@
             <img src="https://i.ibb.co/h17QR0Fp/x.png" alt="X" width="130" />
          </a>
       </div>
-   </div>
    <br />
    <div>
       <p align="center">
