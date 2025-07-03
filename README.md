@@ -19,12 +19,9 @@
   <p align="right">
     <strong><samp>」</samp></strong>
   </p>
+  <hr />
 
   <div style="max-width: 800px; margin: 0 auto">
-    <table style="max-width: 800px; margin: 0 auto">
-        <!-- Third row with Tech Stack -->
-        <tr>
-          <td colspan="2" style="padding: 10px; margin: 0 auto;">
             <p><b>Tech Stack:</b></p>
             <p align="center">
               <a href="https://skillicons.dev">
@@ -34,9 +31,6 @@
                 />
               </a>
             </p>
-          </td>
-        </tr>
-    </table>
   </div>
   <hr />
   <div style="max-width: 800px; margin: 0 auto">
