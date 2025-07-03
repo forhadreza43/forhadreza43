@@ -29,7 +29,7 @@
             <p align="center">
               <a href="https://skillicons.dev">
                 <img
-                  src="https://skillicons.dev/icons?i=nextjs,react,ts,js,mongodb,express,nodejs,postman,firebase,tailwind,css,html,bootstrap,vite,mysql,py,java,c,cpp,git,github,ps,ai,ubuntu,linux,figma"
+                  src="https://skillicons.dev/icons?i=nextjs,react,ts,js,mongodb,express,postman,firebase,tailwind,css,bootstrap,vite,mysql,py,git,github,ps,ai,figma"
                   alt="Tech Stack"
                 />
               </a>
