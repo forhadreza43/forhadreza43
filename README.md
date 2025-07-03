@@ -88,7 +88,7 @@
             <div>
               <p><b>Reach me out</b></p>
               <div>
-                  <a href="https://www.linkedin.com/in/rezaforhad/">
+                  <a href="https://www.linkedin.com/in/rezaforhad/" target="_blank">
                     <img src="https://i.ibb.co/x87hZ0Hm/lin.png" alt="LinkedIn"/>
                   </a>
                   <a href="https://www.facebook.com/forhadreza000/">
