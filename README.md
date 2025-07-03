@@ -34,56 +34,7 @@
                 />
               </a>
             </p>
-            <div align="center">
-              <a
-                href="https://github.com/forhadreza43/awesome-github-profile-readme/stargazers"
-                ><img
-                  src="https://img.shields.io/github/stars/forhadreza43/awesome-github-profile-readme"
-                  alt="Stars Badge"
-              />
-              </a>
-              <a
-                href="https://github.com/forhadreza43/awesome-github-profile-readme/network/members"
-                ><img
-                  src="https://img.shields.io/github/forks/forhadreza43/awesome-github-profile-readme"
-                  alt="Forks Badge"
-              />
-              </a>
-              <a
-                href="https://github.com/forhadreza43/awesome-github-profile-readme/pulls"
-                ><img
-                  src="https://img.shields.io/github/issues-pr/forhadreza43/awesome-github-profile-readme?color=0088ff"
-                  alt="Pull Requests Badge"
-              />
-              </a>
-              <a
-                href="https://github.com/forhadreza43/awesome-github-profile-readme/issues"
-                ><img
-                  src="https://img.shields.io/github/issues/forhadreza43/awesome-github-profile-readme?color=0088ff"
-                  alt="Issues Badge"
-              />
-              </a>
-              <a
-                href="https://github.com/forhadreza43/awesome-github-profile-readme/graphs/contributors"
-                ><img
-                  alt="GitHub contributors"
-                  src="https://img.shields.io/github/contributors/forhadreza43/awesome-github-profile-readme?color=2b9348"
-              />
-              </a>
-              <a
-                href="https://github.com/forhadreza43/awesome-github-profile-readme/blob/master/LICENSE"
-                ><img
-                  src="https://img.shields.io/github/license/forhadreza43/awesome-github-profile-readme?color=2b9348"
-                  alt="License Badge"
-              />
-              </a>
-              <a href="https://codecov.io/gh/forhadreza43/github-readme-stats"
-                ><img
-                  alt="Tests Coverage"
-                  src="https://codecov.io/gh/forhadreza43/github-readme-stats/branch/master/graph/badge.svg"
-              />
-              </a>
-            </div>
+            <!--stats here-->
             <br /> <hr />
             <div style="max-width: 800px; margin: 0 auto">
               <p><b>Reach me out:</b></p>
@@ -99,6 +50,28 @@
                 </a>
               </div>
             </div>
+          </td>
+        </tr>
+    </table>
+  </div>
+  <hr />
+  <div style="max-width: 800px; margin: 0 auto">
+    <table style="max-width: 800px; margin: 0 auto">
+        <!-- Third row with Tech Stack -->
+        <tr>
+          <td colspan="2" style="padding: 10px; margin: 0 auto;">
+              <p><b>Reach me out:</b></p>
+              <div align="center">
+                <a href="https://www.linkedin.com/in/rezaforhad/">
+                  <img src="https://i.ibb.co/x87hZ0Hm/lin.png" alt="LinkedIn" width="130" style="margin: 5px 10px;" />
+                </a>
+                <a href="https://www.facebook.com/forhadreza000/">
+                  <img src="https://i.ibb.co/RTmQphQL/fac.png" alt="Facebook" width="130" style="margin: 5px 10px;" />
+                </a>
+                <a href="https://x.com/forhadreza111">
+                  <img src="https://i.ibb.co/h17QR0Fp/x.png" alt="X" width="130" style="margin: 5px 10px;" />
+                </a>
+              </div>
           </td>
         </tr>
     </table>
