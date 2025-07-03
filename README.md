@@ -20,32 +20,32 @@
    <hr />
    <div>
       <p><b>Tech Stack:</b></p>
-      <div align="center">
+      <p align="center">
          <a href="https://skillicons.dev">
             <img
                src="https://skillicons.dev/icons?i=nextjs,react,ts,js,mongodb,express,postman,firebase,tailwind,css,bootstrap,vite,mysql,py&perline=8"
                alt="Tech Stack"
                />
-      </div>
+      </p>
       </p>
    </div>
    <hr />
    <div>
-   <p><b>Reach me out:</b></p>
-   <div align="center">
-   <a href="mailto:forhad.bimt@gmail.com">
-   <img src="https://i.ibb.co/VcJw5fpz/gmail.png" alt="Email" width="130" />
-   </a>
-   <a href="https://www.linkedin.com/in/rezaforhad/">
-   <img src="https://i.ibb.co/x87hZ0Hm/lin.png" alt="LinkedIn" width="130"  />
-   </a>
-   <a href="https://www.facebook.com/forhadreza000/">
-   <img src="https://i.ibb.co/RTmQphQL/fac.png" alt="Facebook" width="130"  />
-   </a>
-   <a href="https://x.com/forhadreza111">
-   <img src="https://i.ibb.co/h17QR0Fp/x.png" alt="X" width="130" />
-   </a>
-   </div>
+      <p><b>Reach me out:</b></p>
+      <div align="center">
+         <a href="mailto:forhad.bimt@gmail.com">
+            <img src="https://i.ibb.co/VcJw5fpz/gmail.png" alt="Email" width="130" />
+         </a>
+         <a href="https://www.linkedin.com/in/rezaforhad/">
+            <img src="https://i.ibb.co/x87hZ0Hm/lin.png" alt="LinkedIn" width="130"  />
+         </a>
+         <a href="https://www.facebook.com/forhadreza000/">
+            <img src="https://i.ibb.co/RTmQphQL/fac.png" alt="Facebook" width="130"  />
+         </a>
+         <a href="https://x.com/forhadreza111">
+            <img src="https://i.ibb.co/h17QR0Fp/x.png" alt="X" width="130" />
+         </a>
+      </div>
    </div>
    <details align="left">
       <summary>
