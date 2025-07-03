@@ -87,7 +87,7 @@
             <br />
             <div>
               <p><b>Reach me out</b></p>
-              <div style="">
+              <div style="width:100%; display:flex; justify-content:space-between">
                   <a href="https://www.linkedin.com/in/rezaforhad/" target="_blank">
                     <img style="width:200px" src="https://i.ibb.co/x87hZ0Hm/lin.png" alt="LinkedIn"/>
                   </a>
