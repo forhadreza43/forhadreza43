@@ -23,13 +23,13 @@
 
   <div>
             <p><b>Tech Stack:</b></p>
-            <p align="center">
+            <div align="center">
               <a href="https://skillicons.dev">
                 <img
                   src="https://skillicons.dev/icons?i=nextjs,react,ts,js,mongodb,express,postman,firebase,tailwind,css,bootstrap,vite,mysql,py,git,github,ps,ai,figma"
                   alt="Tech Stack"
                 />
-              </a>
+              </div>
             </p>
   </div>
   <hr />
