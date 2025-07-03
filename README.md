@@ -87,14 +87,14 @@
             <br />
             <div>
               <p><b>Reach me out</b></p>
-              <div>
+              <div style="display:flex">
                   <a href="https://www.linkedin.com/in/rezaforhad/" target="_blank">
                     <img src="https://i.ibb.co/x87hZ0Hm/lin.png" alt="LinkedIn"/>
                   </a>
-                  <a href="https://www.facebook.com/forhadreza000/">
+                  <a href="https://www.facebook.com/forhadreza000/" target="_blank">
                     <img src="https://i.ibb.co/RTmQphQL/fac.png" alt="Facebook"/>
                   </a>
-                  <a href="https://x.com/forhadreza111">
+                  <a href="https://x.com/forhadreza111" target="_blank">
                     <img src="https://i.ibb.co/h17QR0Fp/x.png" alt="X"/>
                   </a>
             </div>
