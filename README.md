@@ -89,14 +89,13 @@
               <p><b>Reach me out</b></p>
               <div align="center">
                 <a href="https://www.linkedin.com/in/rezaforhad/">
-                  <img src="https://i.ibb.co/x87hZ0Hm/lin.png" alt="LinkedIn" width="150" style="margin: 0 10px;" /><br/>
-                  <sub>LinkedIn</sub>
+                  <img src="https://i.ibb.co/x87hZ0Hm/lin.png" alt="LinkedIn" width="150" style="margin: 5px 10px;" />
                 </a>
                 <a href="https://www.facebook.com/forhadreza000/">
                   <img src="https://i.ibb.co/RTmQphQL/fac.png" alt="Facebook" width="150" style="margin: 5px 10px;" />
                 </a>
                 <a href="https://x.com/forhadreza111">
-                  <img src="https://i.ibb.co/h17QR0Fp/x.png" alt="X" width="150" style="margin: 0 10px;" />
+                  <img src="https://i.ibb.co/h17QR0Fp/x.png" alt="X" width="150" style="margin: 5px 10px;" />
                 </a>
               </div>
             </div>
