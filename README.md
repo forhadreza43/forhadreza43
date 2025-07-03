@@ -86,7 +86,7 @@
             </div>
             <br /> <hr />
             <div style="max-width: 800px; margin: 0 auto">
-              <p><b>Reach me out</b></p>
+              <p><b>Reach me out:</b></p>
               <div align="center">
                 <a href="https://www.linkedin.com/in/rezaforhad/">
                   <img src="https://i.ibb.co/x87hZ0Hm/lin.png" alt="LinkedIn" width="130" style="margin: 5px 10px;" />
