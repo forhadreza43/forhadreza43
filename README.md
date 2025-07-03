@@ -85,19 +85,20 @@
               </a>
             </div>
             <br />
-          </td>
-          <td>
-            <div id="badges">
-  <a href="your-linkedin-URL">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="your-youtube-URL">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
-  <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-</div>
+            <div>
+              <p><b>Reach me out</b></p>
+              <div>
+                  <a href="https://www.linkedin.com/in/rezaforhad/">
+                    <img src="https://i.ibb.co/x87hZ0Hm/lin.png" alt="LinkedIn"/>
+                  </a>
+                  <a href="https://www.facebook.com/forhadreza000/">
+                    <img src="https://i.ibb.co/RTmQphQL/fac.png" alt="Facebook"/>
+                  </a>
+                  <a href="https://x.com/forhadreza111">
+                    <img src="https://i.ibb.co/h17QR0Fp/x.png" alt="X"/>
+                  </a>
+            </div>
+            </div>
           </td>
         </tr>
     </table>
