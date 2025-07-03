@@ -85,12 +85,12 @@
               </a>
             </div>
             <br />
-            <div>
+            <div style="max-width: 800px; margin: 0 auto">
               <p><b>Reach me out</b></p>
               <div align="center">
-                <table>
-                  <tr>
-                    <td>
+                <table style="border:none">
+                  <tr style="border:none">
+                    <td style="border:none">
                       <a href="https://www.linkedin.com/in/rezaforhad/" target="_blank">
                         <img src="https://i.ibb.co/x87hZ0Hm/lin.png" alt="LinkedIn" width="100"/>
                       </a>
