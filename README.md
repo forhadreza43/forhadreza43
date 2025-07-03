@@ -21,7 +21,7 @@
   </p>
   <hr />
 
-  <div style="max-width: 800px; margin: 0 auto">
+  <div>
             <p><b>Tech Stack:</b></p>
             <p align="center">
               <a href="https://skillicons.dev">
@@ -33,7 +33,7 @@
             </p>
   </div>
   <hr />
-  <div style="max-width: 800px; margin: 0 auto">
+  <div>
               <p><b>Reach me out:</b></p>
               <div align="center">
                 <a href="https://www.linkedin.com/in/rezaforhad/">
