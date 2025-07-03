@@ -86,9 +86,8 @@
             </div>
             <br />
           </td>
-        </tr>
-      <tr>
-        <div id="badges">
+          <td>
+            <div id="badges">
   <a href="your-linkedin-URL">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -99,7 +98,8 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
-      </tr>
+          </td>
+        </tr>
     </table>
   </div>
   <details align="left">
