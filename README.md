@@ -1,7 +1,7 @@
-   <p align="left">
+<p align="left">
       <strong><samp>「</samp></strong>
-   </p>
-   <p align="center">
+</p>
+<p align="center">
       <samp>
       <b>Hi ✨</b>
       <br />
@@ -12,12 +12,14 @@
          alt="Typing SVG"
          />
       </samp>
-   </p>
-   <p align="right">
-      <strong><samp>」</samp></strong>
-   </p>
-   <br />
-      <p><b>Tech Stack:</b></p>
+</p>
+<p align="right">
+   <strong><samp>」</samp></strong>
+</p>
+   
+<br />
+   
+<p><b>Tech Stack:</b></p>
       <p align="center">
          <a href="https://skillicons.dev">
             <img
@@ -25,10 +27,12 @@
                alt="Tech Stack"
                />
       </p>
-      </p>
+            
    <br />
-      ## : Reach me out:
-      <div align="center">
+   
+## : Reach me out:
+
+<div align="center">
          <a href="mailto:forhad.bimt@gmail.com">
             <img src="https://i.ibb.co/VcJw5fpz/gmail.png" alt="Email" width="130" />
          </a>
@@ -42,9 +46,12 @@
             <img src="https://i.ibb.co/h17QR0Fp/x.png" alt="X" width="130" />
          </a>
       </div>
+      
    <br />
+   
 ## :chart_with_upwards_trend: Current Stats
-      <p align="center">
+
+<p align="center">
         <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=forhadreza43&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" />
       </p>
 
