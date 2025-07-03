@@ -23,7 +23,7 @@
       <div align="center">
          <a href="https://skillicons.dev">
             <img
-               src="https://skillicons.dev/icons?i=nextjs,react,ts,js,mongodb,express,postman,firebase,tailwind,css,bootstrap,vite,mysql,py&perline=6"
+               src="https://skillicons.dev/icons?i=nextjs,react,ts,js,mongodb,express,postman,firebase,tailwind,css,bootstrap,vite,mysql,py&perline=8"
                alt="Tech Stack"
                />
       </div>
