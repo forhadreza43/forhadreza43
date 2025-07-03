@@ -30,9 +30,9 @@
             
    <br />
    
-## : Reach me out:
+##  Reach me out:
 
-<div align="center" style="pading-top:50">
+<div align="center" style="padding-top:100">
          <a href="mailto:forhad.bimt@gmail.com">
             <img src="https://i.ibb.co/VcJw5fpz/gmail.png" alt="Email" width="130" />
          </a>
