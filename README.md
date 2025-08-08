@@ -76,11 +76,10 @@ Hello! I'm Forhad Reza, a passionate MERN stack developer skilled in building dy
   <a href="https://x.com/forhadreza111">
     <img src="https://i.ibb.co/h17QR0Fp/x.png" alt="X" width="130" />
   </a>
-  <p>Whatsapp: +880 1798 182763</p> <br />
+  <p>Whatsapp: +880 1798 182763</p>
   <p>Email: forhad.bimt@gmail.com</p>
 </div>
 
-<br />
 
 ## Current Stats
 
