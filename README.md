@@ -86,8 +86,8 @@ Hello! I'm Forhad Reza, a passionate MERN stack developer skilled in building dy
   <a href="https://x.com/forhadreza111">
     <img src="https://i.ibb.co/h17QR0Fp/x.png" alt="X" width="130" />
   </a>
-  <p>Whatsapp: +880 1798 182763</p>
-  <p>Email: forhad.bimt@gmail.com</p>
+  <h2>Whatsapp: +880 1798 182763</h2>
+  <h3>Email: forhad.bimt@gmail.com</h3>
 </div>
 
 
@@ -154,19 +154,3 @@ Hello! I'm Forhad Reza, a passionate MERN stack developer skilled in building dy
   </div>
 </details>
 
-<!-- <h1 align="center">Hi 👋, I'm Forhad Reza</h1>
-   <h3 align="center">A passionate frontend developer</h3> -->
-<!--
-   **forhadreza43/forhadreza43** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-   
-   Here are some ideas to get you started:
-   
-   - 🔭 I’m currently working on ...
-   - 🌱 I’m currently learning ...
-   - 👯 I’m looking to collaborate on ...
-   - 🤔 I’m looking for help with ...
-   - 💬 Ask me about ...
-   - 📫 How to reach me: ...
-   - 😄 Pronouns: ...
-   - ⚡ Fun fact: ...
-   -->
