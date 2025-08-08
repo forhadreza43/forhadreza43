@@ -89,11 +89,6 @@ Hello! I'm Forhad Reza, a passionate MERN stack developer skilled in building dy
     src="https://github-readme-streak-stats.herokuapp.com?user=forhadreza43&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF"
   />
 </p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=forhadreza43&show_icons=true&theme=default" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=forhadreza43&theme=default" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=forhadreza43&layout=compact&theme=default" alt="Top Languages" />
-</p>
 
 
 ## Online Judge
