@@ -66,7 +66,7 @@ Hello! I'm Forhad Reza, a passionate MERN stack developer skilled in building dy
 <p align="center">
   <a href="https://skillicons.dev">
     <img
-      src="https://skillicons.dev/icons?i=c,cpp,python.java,figma,ai,ps,&perline=10"
+      src="https://skillicons.dev/icons?i=c,cpp,py,java,figma,ai,ps,&perline=10"
       alt="Frontend Tech"
     />
   </a>
