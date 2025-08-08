@@ -62,6 +62,16 @@ Hello! I'm Forhad Reza, a passionate MERN stack developer skilled in building dy
   </a>
 </p>
 
+### ✏️ Others  
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img
+      src="https://skillicons.dev/icons?i=c,cpp,python.java,figma,ai,ps,&perline=10"
+      alt="Frontend Tech"
+    />
+  </a>
+</p>
+
 
 
 ## 📫 Reach me out
@@ -91,7 +101,7 @@ Hello! I'm Forhad Reza, a passionate MERN stack developer skilled in building dy
 </p>
 
 
-## 🌍🌐 Online Judge
+## 🌐 Online Judge
 
 <div align="center">
   <a href="https://leetcode.com/u/snow_cone/">
