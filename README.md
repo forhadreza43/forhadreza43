@@ -15,6 +15,10 @@
 </p>
 
 <br />
+### 👨‍💻 About Me  
+Hello! I'm Forhad Reza, a passionate MERN stack developer skilled in building dynamic, user-friendly web applications using MongoDB, Express.js, React, and Node.js. I love solving real-world problems through code and continuously learning modern web technologies to create impactful solutions.
+
+---
 
 ## Tech Stack
 
