@@ -63,9 +63,8 @@ Hello! I'm Forhad Reza, a passionate MERN stack developer skilled in building dy
 </p>
 
 
----
 
-## Reach me out
+## 📫 Reach me out
 
 <div align="center" style="padding-top: 100">
   <a href="mailto:forhad.bimt@gmail.com">
@@ -74,12 +73,10 @@ Hello! I'm Forhad Reza, a passionate MERN stack developer skilled in building dy
   <a href="https://www.linkedin.com/in/rezaforhad/">
     <img src="https://i.ibb.co/x87hZ0Hm/lin.png" alt="LinkedIn" width="130" />
   </a>
-  <a href="https://www.facebook.com/forhadreza000/">
-    <img src="https://i.ibb.co/RTmQphQL/fac.png" alt="Facebook" width="130" />
-  </a>
   <a href="https://x.com/forhadreza111">
     <img src="https://i.ibb.co/h17QR0Fp/x.png" alt="X" width="130" />
   </a>
+  <p>Whatsapp: +880 1798 182763</p>
 </div>
 
 <br />
