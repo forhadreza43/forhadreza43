@@ -20,7 +20,15 @@
 ## 👨‍💻 About Me  
 Hello! I'm Forhad Reza, a passionate MERN stack developer skilled in building dynamic, user-friendly web applications using MongoDB, Express.js, React, and Node.js. I love solving real-world problems through code and continuously learning modern web technologies to create impactful solutions.
 
----
+
+## 🔧 Current Focus Areas
+
+- 🌐 Exploring **Next.js 15** with App Router & RSCs to build server-side rendered applications
+- 🛠️ Working on a **Tourism Management System (GoDesh)** website with React and Express.js for seamless user experiences.
+- 🛡️ Deep-diving into **JWT token rotation & secure auth flows**  
+- ⚙️ Learning advanced **Mongoose v8**, **Redux** for state management & **TypeScript** to write type-safe
+- 🚀 Contributing to **open-source** projects to enhance my full-stack skills
+
 
 ## Tech Stack
 
@@ -38,6 +46,14 @@ Hello! I'm Forhad Reza, a passionate MERN stack developer skilled in building dy
 ### ⚙️ Tech Stack & Tools
 
 #### 🖥️ Frontend  
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img
+      src="https://skillicons.dev/icons?i=nextjs,react,ts,js,html,css,tailwind&perline=10"
+      alt="Tech Stack"
+    />
+  </a>
+</p>
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="React" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" alt="Next.js" />
