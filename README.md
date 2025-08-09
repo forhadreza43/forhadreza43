@@ -46,7 +46,7 @@ Hello! I'm Forhad Reza, a passionate MERN stack developer skilled in building dy
 <p align="center">
   <a href="https://skillicons.dev">
     <img
-      src="https://skillicons.dev/icons?i=express,mongodb,firebase,mysql&perline=10"
+      src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,mysql&perline=10"
       alt="Frontend Tech"
     />
   </a>
