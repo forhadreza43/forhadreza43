@@ -18,15 +18,15 @@
 
 
 ## 👨‍💻 About Me  
-Hello! I'm Forhad Reza, a passionate MERN stack developer skilled in building dynamic, user-friendly web applications using MongoDB, Express.js, React, and Node.js. I love solving real-world problems through code and continuously learning modern web technologies to create impactful solutions.
+Hello! I'm Forhad Reza, a passionate MERN stack developer skilled in building dynamic, user-friendly web applications using Next.js, PostgreSQL, MongoDB, Express.js, React, Node.js, Prisma, and Mongoose. I love solving real-world problems through code and continuously learning modern web technologies to create impactful solutions.
 
 
 ## 🔧 Current Focus Areas
 
-- 🌐 Exploring **Next.js 15** with App Router & RSCs to build server-side rendered applications
-- 🛠️ Working on a **Tourism Management System (GoDesh)** website with React and Express.js for seamless user experiences.
+- 🌐 Exploring newly **Next.js 16**s cache component features.
+- 🛠️ Working on a **EduConnect** project with Next.js 16 and Express.js for seamless user experiences.
 - 🛡️ Deep-diving into **JWT token rotation & secure auth flows**  
-- ⚙️ Learning advanced **Mongoose v8**, **Redux** for state management & **TypeScript** to write type-safe
+- ⚙️ Learning advanced **Mongoose v8**, **Redux** for state management.
 - 🚀 Contributing to **open-source** projects to enhance my full-stack skills
 
 
@@ -36,7 +36,7 @@ Hello! I'm Forhad Reza, a passionate MERN stack developer skilled in building dy
 <p align="center">
   <a href="https://skillicons.dev">
     <img
-      src="https://skillicons.dev/icons?i=nextjs,react,ts,js,html,css,tailwind,vite,bootstrap&perline=10"
+      src="https://skillicons.dev/icons?i=nextjs,react,ts,js,html,css,tailwind,vite&perline=10"
       alt="Frontend Tech"
     />
   </a>
@@ -46,7 +46,7 @@ Hello! I'm Forhad Reza, a passionate MERN stack developer skilled in building dy
 <p align="center">
   <a href="https://skillicons.dev">
     <img
-      src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,mysql&perline=10"
+      src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb,prisma,firebase,mysql&perline=10"
       alt="Frontend Tech"
     />
   </a>
@@ -56,7 +56,7 @@ Hello! I'm Forhad Reza, a passionate MERN stack developer skilled in building dy
 <p align="center">
   <a href="https://skillicons.dev">
     <img
-      src="https://skillicons.dev/icons?i=git,github,vscode,vercel,postman&perline=10"
+      src="https://skillicons.dev/icons?i=git,github,vscode,vercel,postman,bun,pnpm,npm&perline=10"
       alt="Frontend Tech"
     />
   </a>
