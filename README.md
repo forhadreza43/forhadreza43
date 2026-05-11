@@ -36,7 +36,7 @@ Hello! I'm Forhad Reza, a passionate MERN stack developer skilled in building dy
 <p align="center">
   <a href="https://skillicons.dev">
     <img
-      src="https://skillicons.dev/icons?i=nextjs,react,ts,js,html,css,tailwind,vite&perline=10"
+      src="https://skillicons.dev/icons?i=nextjs,react,redux,ts,js,html,css,tailwind,vite&perline=10"
       alt="Frontend Tech"
     />
   </a>
