@@ -23,10 +23,9 @@ Hello! I'm Forhad Reza, a passionate MERN stack developer skilled in building dy
 
 ## 🔧 Current Focus Areas
 
-- 🌐 Exploring newly **Next.js 16**s cache component features.
+- 🌐 Exploring various automation techniques for web application development.
 - 🛠️ Working on a **EduConnect** project with Next.js 16 and Express.js for seamless user experiences.
-- 🛡️ Deep-diving into **JWT token rotation & secure auth flows**  
-- ⚙️ Learning advanced **Mongoose v8**, **Redux** for state management.
+- 🛡️ Deep-diving into **AI Integration in web apps**  
 - 🚀 Contributing to **open-source** projects to enhance my full-stack skills
 
 
